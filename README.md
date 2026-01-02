@@ -19,7 +19,7 @@
 
 - **Stream Delay Control**
   <br>
-  <img width="1430" height="880" alt="Stream Delay Screenshot" src="https://github.com/user-attachments/assets/a85dff51-258d-4f55-b06e-1f38b6dae60e" />
+  <img width="1430" height="880" alt="Stream Delay Screenshot" src="https://github.com/user-attachments/assets/817a87db-3c7a-4be7-998c-20aff161dcf4" />
   <ul>
     <li>Quick presets, custom timings, and an instant <strong>Skip to Live</strong> option.</li>
     <li>Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled.</li>
