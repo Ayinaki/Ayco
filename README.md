@@ -1,35 +1,43 @@
 <div align="center">
   <img width="190" height="190" alt="Logo-Square" src="https://github.com/user-attachments/assets/34a7fea2-8df9-481e-97a5-13922acc7290" />
+
+  <h1>Ayco</h1>
+
+  <p>
+    <strong>Ayco</strong> is a desktop companion for streamers and VALORANT players, combining instant stream-delay controls with a lightweight game dashboard and a curated utility hub.
+  </p>
+
+  <p>
+    This repository hosts <strong>compiled releases only</strong>.<br>
+    Source code is <strong>not published</strong> here.
+  </p>
 </div>
-
-# Ayco
-
-**Ayco** is a desktop companion for streamers and VALORANT players, combining instant stream-delay controls with a lightweight game dashboard and a curated utility hub.
-
-This repository hosts **compiled releases only**.  
-Source code is **not published** here.
 
 ---
 
 ## ✨ Key Features
 
 - **Stream Delay Control**
-<img width="1430" height="880" alt="image" src="https://github.com/user-attachments/assets/a85dff51-258d-4f55-b06e-1f38b6dae60e" />
-  - Quick presets, custom timings, and an instant **Skip to Live** option  
-  
-  - Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled
+  <br>
+  <img width="1430" height="880" alt="Stream Delay Screenshot" src="https://github.com/user-attachments/assets/a85dff51-258d-4f55-b06e-1f38b6dae60e" />
+  <ul>
+    <li>Quick presets, custom timings, and an instant <strong>Skip to Live</strong> option.</li>
+    <li>Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled.</li>
+  </ul>
 
 - **VALORANT Companion**
-<img width="1430" height="880" alt="image" src="https://github.com/user-attachments/assets/fc9603ce-fabf-4e24-865d-e861b12eeaeb" />
-  - View ranks, RR history, recent match snapshots, featured bundles, leaderboards, and news
-  
-  - Easy account switching and manual refresh controls
+  <br>
+  <img width="1430" height="880" alt="Valorant Tab Screenshot" src="https://github.com/user-attachments/assets/fc9603ce-fabf-4e24-865d-e861b12eeaeb" />
+  <ul>
+    <li>View ranks, RR history, recent match snapshots, featured bundles, leaderboards, and news.</li>
+    <li>Easy account switching and manual refresh controls.</li>
+  </ul>
 
 - **Resources Hub**
-  - Curated scripts, trusted downloads, and shortcuts for common gaming and streaming tasks
+  - Curated scripts, trusted downloads, and shortcuts for common gaming and streaming tasks.
 
 - **Flexible Access**
-  - Optional Discord sign-in or guest mode for quick access
+  - Optional Discord sign-in or guest mode for quick access.
 
 ---
 
@@ -43,9 +51,9 @@ Additional desktop platforms may be added in the future.
 
 ## 📦 Download & Install
 
-1. Go to the **Releases** section of this repository.
+1. Go to the **[Releases](../../releases)** section of this repository.
 2. Download the latest installer or build for your platform.
-3. Run the installer  
+3. Run the installer.
    *(Allow network access if prompted so streaming features and data updates function correctly.)*
 4. Launch **Ayco** from the Start menu or desktop shortcut.
 
@@ -55,16 +63,16 @@ Additional desktop platforms may be added in the future.
 
 - Sign in with Discord or continue as a guest.
 - Open **Stream Delay** to:
-  - Enable the Stream Bridge
-  - Select a preset or enter a custom delay
-  - Use **Skip to Live** to instantly return to live playback
+  - Enable the Stream Bridge.
+  - Select a preset or enter a custom delay.
+  - Use **Skip to Live** to instantly return to live playback.
 - Open **VALORANT** to:
-  - Enter your Riot ID and region
-  - View ranks, RR history, recent matches, bundles, leaderboards, and news
+  - Enter your Riot ID and region.
+  - View ranks, RR history, recent matches, bundles, leaderboards, and news.
 - Use **Resources** for:
-  - Quick system scripts
-  - Trusted downloads
-  - Shortcuts to common Windows tools
+  - Quick system scripts.
+  - Trusted downloads.
+  - Shortcuts to common Windows tools.
 
 ---
 
@@ -79,8 +87,7 @@ Additional desktop platforms may be added in the future.
 
 ## 💬 Support & Feedback
 
-- Open a **GitHub Issue** in this repository for bugs, feature requests, or questions.
-- For account or data-related help, refer to the contact information provided in my github, or via discord: ayinaki
+- Open a **[GitHub Issue](../../issues)** in this repository for bugs, feature requests, or questions.
+- For account or data-related help, refer to the contact information provided in my profile, or via Discord: **ayinaki**.
 
 ---
-
