@@ -1,4 +1,6 @@
-<div style="text-align:center"><img width="190" height="190" alt="Logo-Square" src="https://github.com/user-attachments/assets/34a7fea2-8df9-481e-97a5-13922acc7290" /></div>
+<div align="center">
+  <img width="190" height="190" alt="Logo-Square" src="https://github.com/user-attachments/assets/34a7fea2-8df9-481e-97a5-13922acc7290" />
+</div>
 
 # Ayco
 
@@ -12,12 +14,12 @@ Source code is **not published** here.
 ## ✨ Key Features
 
 - **Stream Delay Control**
-<img width="1432" height="882" alt="image" src="https://github.com/user-attachments/assets/3ac422f3-e476-4e49-8d2f-57960edebf77" />
+<img width="1430" height="880" alt="image" src="https://github.com/user-attachments/assets/a85dff51-258d-4f55-b06e-1f38b6dae60e" />
   - Quick presets, custom timings, and an instant **Skip to Live** option  
   - Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled
 
 - **VALORANT Companion**
-<img width="1400" height="850" alt="image" src="https://github.com/user-attachments/assets/46fde796-2c69-4bcd-a414-43d56f64480c" />
+<img width="1430" height="880" alt="image" src="https://github.com/user-attachments/assets/fc9603ce-fabf-4e24-865d-e861b12eeaeb" />
   - View ranks, RR history, recent match snapshots, featured bundles, leaderboards, and news
   - Easy account switching and manual refresh controls
 
