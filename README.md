@@ -16,11 +16,13 @@ Source code is **not published** here.
 - **Stream Delay Control**
 <img width="1430" height="880" alt="image" src="https://github.com/user-attachments/assets/a85dff51-258d-4f55-b06e-1f38b6dae60e" />
   - Quick presets, custom timings, and an instant **Skip to Live** option  
+  
   - Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled
 
 - **VALORANT Companion**
 <img width="1430" height="880" alt="image" src="https://github.com/user-attachments/assets/fc9603ce-fabf-4e24-865d-e861b12eeaeb" />
   - View ranks, RR history, recent match snapshots, featured bundles, leaderboards, and news
+  
   - Easy account switching and manual refresh controls
 
 - **Resources Hub**
