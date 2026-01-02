@@ -1,3 +1,5 @@
+<img width="570" height="570" alt="Logo-Square" src="https://github.com/user-attachments/assets/34a7fea2-8df9-481e-97a5-13922acc7290" />
+
 # Ayco
 
 **Ayco** is a desktop companion for streamers and VALORANT players, combining instant stream-delay controls with a lightweight game dashboard and a curated utility hub.
@@ -10,10 +12,14 @@ Source code is **not published** here.
 ## ✨ Key Features
 
 - **Stream Delay Control**
+<img width="1400" height="850" alt="image" src="https://github.com/user-attachments/assets/4d7ff343-cc98-4440-8b90-979cbc5acb95" />
+
   - Quick presets, custom timings, and an instant **Skip to Live** option  
   - Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled
 
 - **VALORANT Companion**
+<img width="1400" height="850" alt="image" src="https://github.com/user-attachments/assets/46fde796-2c69-4bcd-a414-43d56f64480c" />
+
   - View ranks, RR history, recent match snapshots, featured bundles, leaderboards, and news
   - Easy account switching and manual refresh controls
 
