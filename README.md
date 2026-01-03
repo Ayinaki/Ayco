@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Stream Delay Control**
   <br>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🖥 Supported Platforms
+##  Supported Platforms
 
 - **Windows 10 / Windows 11** (current release target)
 
@@ -59,7 +59,7 @@ Additional desktop platforms may be added in the future.
 
 ---
 
-## 🚀 Basic Usage
+##  Basic Usage
 
 - Sign in with Discord or continue as a guest.
 - Open **Stream Delay** to:
@@ -76,7 +76,7 @@ Additional desktop platforms may be added in the future.
 
 ---
 
-## 🔄 Updates & Versioning
+##  Updates & Versioning
 
 - Release tags match the application version.
 - Each release includes notes outlining changes and improvements.
@@ -85,7 +85,7 @@ Additional desktop platforms may be added in the future.
 
 ---
 
-## 💬 Support & Feedback
+##  Support & Feedback
 
 - Open a **[GitHub Issue](../../issues)** in this repository for bugs, feature requests, or questions.
 - For account or data-related help, refer to the contact information provided in my profile, or via Discord: **ayinaki**.
