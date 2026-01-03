@@ -37,8 +37,11 @@
   - Curated scripts, trusted downloads, and shortcuts for common gaming and streaming tasks.
 
 - **Flexible Access**
+  <br>
+  <img width="1430" height="880" alt="app_rVAr4aKgx0" src="https://github.com/user-attachments/assets/b9183f5a-22eb-46b2-8336-e0e2796f00e0" />
+  <ul>
   - Optional Discord sign-in or guest mode for quick access.
-
+  </ul>
 ---
 
 ##  Supported Platforms
