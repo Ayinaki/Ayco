@@ -19,7 +19,7 @@
 
 - **Stream Delay Control**
   <br>
-  <img width="1430" height="880" alt="Stream Delay Screenshot" src="https://github.com/user-attachments/assets/817a87db-3c7a-4be7-998c-20aff161dcf4" />
+  <img width="1430" height="880" alt="app_HsqUySXl0C" src="https://github.com/user-attachments/assets/c1864704-10f7-43b5-b590-a865cd3616e7" />
   <ul>
     <li>Quick presets, custom timings, and an instant <strong>Skip to Live</strong> option.</li>
     <li>Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled.</li>
@@ -27,7 +27,7 @@
 
 - **VALORANT Companion**
   <br>
-  <img width="1430" height="880" alt="Valorant Tab Screenshot" src="https://github.com/user-attachments/assets/fc9603ce-fabf-4e24-865d-e861b12eeaeb" />
+  <img width="1430" height="880" alt="app_LiHRzUz9oP" src="https://github.com/user-attachments/assets/8648deb3-a1c9-4fe9-8210-08419db779c0" />
   <ul>
     <li>View ranks, RR history, recent match snapshots, featured bundles, leaderboards, and news.</li>
     <li>Easy account switching and manual refresh controls.</li>
