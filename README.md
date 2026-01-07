@@ -4,7 +4,7 @@
   <h1>Ayco</h1>
 
   <p>
-    <strong>Ayco</strong> is a desktop companion for streamers and VALORANT players, combining instant stream-delay controls with a lightweight game dashboard and a curated utility hub.
+    <strong>Ayco</strong> is a desktop companion for streamers and VALORANT players, combining lightweight game dashboard and a curated utility hub.
   </p>
 
   <p>
@@ -16,14 +16,6 @@
 ---
 
 ##  Key Features
-
-- **Stream Delay Control**
-  <br>
-  <img width="1430" height="880" alt="app_HsqUySXl0C" src="https://github.com/user-attachments/assets/c1864704-10f7-43b5-b590-a865cd3616e7" />
-  <ul>
-    <li>Quick presets, custom timings, and an instant <strong>Skip to Live</strong> option.</li>
-    <li>Built-in Stream Bridge to manage RTMP relay usage and free port 1935 when disabled.</li>
-  </ul>
 
 - **VALORANT Companion**
   <br>
@@ -65,10 +57,6 @@ Additional desktop platforms may be added in the future.
 ##  Basic Usage
 
 - Sign in with Discord or continue as a guest.
-- Open **Stream Delay** to:
-  - Enable the Stream Bridge.
-  - Select a preset or enter a custom delay.
-  - Use **Skip to Live** to instantly return to live playback.
 - Open **VALORANT** to:
   - Enter your Riot ID and region.
   - View ranks, RR history, recent matches, bundles, leaderboards, and news.
